@@ -1,0 +1,1 @@
+All sample writing goes in this folder. All files must be in the .txt format.
