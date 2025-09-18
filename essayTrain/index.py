@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer # Package for converting w
 import pickle
 
 EMBED_MODEL = "all-MiniLM-L6-v2" # Sentence Transformer model
-essays_dir = "essayTrain/essays"
+essays_dir = "essayTrain/trainingWriting"
 index_dir = "index"
 
 # Take all writing samples in the essays_dir folder and put them into a list.
